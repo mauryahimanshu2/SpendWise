@@ -21,14 +21,11 @@ Spendwish allows you to:
 
 ## Preview
 
-```text
-Add screenshots inside a screenshots folder, then update these image paths.
-```
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" width="45%" />
+  <img src="./screenshots/login.png" width="45%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./screenshots/expense.png" width="45%" />
+  <img src="./screenshots/dashboard.png" width="45%" />
 </p>
 
 ---
