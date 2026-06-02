@@ -148,8 +148,3 @@ http://localhost:5173
 | `/api/expense` | Expense record APIs |
 | `/api/dashboard` | Dashboard summary APIs |
 
----
-
-## Repository
-
-GitHub: Add your Spendwish repository link here.
